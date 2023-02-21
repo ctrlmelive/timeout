@@ -1,4 +1,6 @@
 import datetime
+import os
+os.getdir()
 
 today = datetime.now().date
 
